@@ -1,0 +1,29 @@
+
+!gradle/wrapper/gradle-wrapper.jar
+
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
+
+
+/out/
+
+*.class
+
+
+
+
+
